@@ -1,0 +1,14 @@
+C:\Users\ilyan\source\repos\Okoshko\obj\Debug\Okoshko.csproj.AssemblyReference.cache
+C:\Users\ilyan\source\repos\Okoshko\obj\Debug\Okoshko.csproj.CoreCompileInputs.cache
+C:\Users\ilyan\source\repos\Okoshko\obj\Debug\UserControl1.g.cs
+C:\Users\ilyan\source\repos\Okoshko\obj\Debug\Okoshko_MarkupCompile.cache
+C:\Users\ilyan\source\repos\Okoshko\obj\Debug\Okoshko_MarkupCompile.lref
+C:\Users\ilyan\source\repos\Okoshko\bin\Debug\Okoshko.exe.config
+C:\Users\ilyan\source\repos\Okoshko\bin\Debug\Okoshko.exe
+C:\Users\ilyan\source\repos\Okoshko\bin\Debug\Okoshko.pdb
+C:\Users\ilyan\source\repos\Okoshko\bin\Debug\System.Drawing.Common.dll
+C:\Users\ilyan\source\repos\Okoshko\obj\Debug\UserControl1.baml
+C:\Users\ilyan\source\repos\Okoshko\obj\Debug\Okoshko.g.resources
+C:\Users\ilyan\source\repos\Okoshko\obj\Debug\Okoshko.csproj.Up2Date
+C:\Users\ilyan\source\repos\Okoshko\obj\Debug\Okoshko.exe
+C:\Users\ilyan\source\repos\Okoshko\obj\Debug\Okoshko.pdb
